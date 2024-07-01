@@ -3,6 +3,6 @@
 Умеет сканировать папки и файлы, оповещать о найденом объекте звуковым сигналом.
 
 
-![alt text](https://github.com/pj-crystal/Crystal-ESecurity/blob/main/8.png?raw=true)
-![alt text](https://github.com/pj-crystal/Crystal-ESecurity/blob/main/10.png?raw=true)
-![alt text](https://github.com/pj-crystal/Crystal-ESecurity/blob/main/9.png?raw=true)
+![alt text](8.png)
+![alt text](10.png)
+![alt text](9.png)
